@@ -1,6 +1,6 @@
 # MSMs
  Moving Series Machines (stacking forcasting and classification engines)
  
- classifasters (classsification forecasters)
+classifasters (classsification forecasters)
 
-forecast classifiier
+foreclassifier forecast classifiier)
